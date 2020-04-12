@@ -7,6 +7,10 @@ import javax.ws.rs.ext.ExceptionMapper;
 
 import static javax.ws.rs.core.Response.Status.FORBIDDEN;
 
+/**
+ * @author Nikolay Bondarchuk
+ * @since 2020-04-05
+ */
 public class AccessDeniedExceptionMapper implements ExceptionMapper<AccessDeniedException> {
 
     @Override
