@@ -10,7 +10,7 @@
 
     <properties>
         <jdk.version>1.8</jdk.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <lombok.version>1.18.10</lombok.version>
         <commons.lang.version>3.9</commons.lang.version>
         <commons.collections.version>4.4</commons.collections.version>
